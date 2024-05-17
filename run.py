@@ -32,7 +32,7 @@ optimizer = torch.optim.SGD(tudui.parameters(), lr=learning_rate)
 # %%
 total_train_step = 0
 total_test_step = 0
-epoch = 30
+epoch = 100
 
 writer = SummaryWriter('logs')
 
