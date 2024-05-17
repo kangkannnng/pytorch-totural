@@ -1,0 +1,9 @@
+/CIFAR
+/__pycache__
+/checkpoints
+/dataset
+/images
+/logs
+/tudui.pth
+/vgg16_method1.pth
+/vgg16_method2.pth
